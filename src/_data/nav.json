@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
   "navLinks":["home","servicios","contacto"],
-  "navBtnLink":"contact",
+  "navBtnLink":"",
   "navBtnText":"Pagina En CHINO"
 }
