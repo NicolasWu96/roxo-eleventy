@@ -1036,7 +1036,7 @@ textarea.form-control {
 .site-footer-logo {
   margin-bottom: 50px;
 }
-@media (max-width: 100px) {
+@media (max-width: 575px) {
   .site-footer-logo {
     text-align: center;
   }
