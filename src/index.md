@@ -9,8 +9,8 @@ hero:
     text: "Servicios"
     link: "#servicios"
   connectBtn: 
-    text: "Connect with us"
-    link: "contact"
+    text: "Contactar"
+    link: "#contacto"
 
 portfolio:
   subTitle: "OUR RECENT WORKS"
