@@ -7,7 +7,7 @@ hero:
     secondPara: "EN COMERCIO EXTERIOR"
   seeWorkBtn:
     text: "Servicios"
-    link: "#products"
+    link: "#servicios"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
