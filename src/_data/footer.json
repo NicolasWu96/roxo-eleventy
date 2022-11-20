@@ -1,11 +1,11 @@
 {
   "footerLogo": "/assets/images/logo-footer.png",
 
-  "contactsHeading": "Contact Info",
+  "contactsHeading": "Información de contacto",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://goo.gl/maps/WreGZhEDthh3UacW6",
+      "text":"Moreno 502 Piso 6º Oficina 626, C1091AAL, Palacio Raggio, CABA, Argentina"
     },
     {
       "link":"tel:409-896-1444",
@@ -16,8 +16,8 @@
       "text":"409-781-1308"
     },
     {
-      "link":"mailto:",
-      "text":"info@roxo.co"
+      "link":"mailto:info@embconsultores.com",
+      "text":"info@embconsultores.com"
     }
   ],
 
