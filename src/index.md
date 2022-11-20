@@ -6,8 +6,8 @@ hero:
     firstPara: "SERVICIO INTEGRAL"
     secondPara: "EN COMERCIO EXTERIOR"
   seeWorkBtn:
-    text: "See Our Works"
-    link: "#project"
+    text: "Servicios"
+    link: "#testimonials"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
