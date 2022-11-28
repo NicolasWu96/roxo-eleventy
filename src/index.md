@@ -9,7 +9,7 @@ hero:
     text: "Servicios"
     link: "#servicios"
   connectBtn: 
-    text: "聯繫"
+    text: "Contactar"
     link: "#contacto"
 
 portfolio:
