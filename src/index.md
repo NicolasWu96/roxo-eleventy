@@ -14,8 +14,6 @@ hero:
 
 introduction:
   title: "NOSOTROS"
-  text: "test text"
-
 
 portfolio:
   subTitle: "OUR RECENT WORKS"
@@ -24,6 +22,8 @@ portfolio:
     link: "portfolio"
     text: "MORE WORKS"
 ---
+
+![](/assets/images/blog/xcamion.jpeg)
 
 Somos una empresa integrada por profesionales jóvenes con más de 20 años de Experiencia en Comercio Exterior, brindando un servicio integral en soluciones en el sector. Asociados con el fin de dar confiabilidad en un mercado tan competitivo como el de los servicios de Comercio Exterior, ofrecemos una alternativa signada por la calidad.
 
