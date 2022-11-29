@@ -1,5 +1,24 @@
 {% extends "base.njk" %}
 
+{% block navbar %}
+
+    <nav class="navbar navbar-expand-lg site-navigation">
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <img src="{{nav.navLogo}}" alt="nav-logo" />
+        </a>
+        <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="/{{nav.navBtnLink}}">
+          <span class="btn-area">
+            <span data-text="{{nav.navBtnText}}">
+              {{nav.navBtnText}}
+            </span>
+          </span>
+        </a>
+      </div>
+    </nav>
+
+  {% endblock %}
+
 {% block content %}
 
     <section class="site-hero">
