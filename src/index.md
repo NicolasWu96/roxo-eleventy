@@ -20,7 +20,26 @@ hero:
 introduction:
   title: "NOSOTROS"
 
-services: "testimonials.opinion"
+services: 
+  import:
+    title: "IMPORTACIÓN"
+    description: "Definitiva y temporal en todas las aduanas del país y zonas francas. Destinaciones particulares. Ferias. Bienes de Capital, nuevos y usados."
+  export:
+    title: "EXPORTACIÓN"
+    description: "Definitiva y temporal desde todo el territorio argentino. Gestión y seguimientos de Reintegros. Certificados de origen y demás tramitaciones."
+  intervention: 
+    title: "INTERVENCIONES"
+    description: "Todo tipo de organismos gubernamentales: Seguridad eléctrica, INAL, SENASA, ANMAT, Registro Automotor, Cultura, Flora y Fauna, INTI, etc."
+  consultancy:
+    title: "CONSULTORÍA"
+    description: "Asesoramiento Integral. Inscripción en el registro de importadores/exportadores, regímenes especiales y grandes proyectos de inversión. Regimen automotriz."
+  logistics:
+    title: "LOGÍSTICA"
+    description: "Flete internacional aéreo, terrestre y marítimo. Acarreo interno. Desconsolidación, traslados y guarda en depósitos privados. Custodias."
+  internationalMoving:
+    title: "MUDANZAS INTERNACIONALES"
+    description: "Gestión integral para muebles, artículos personales, bienes y vehículos particulares. Inscripción y gestión en Registro Automotor."
+
 
 footer:
   contactHeading: "Información de contacto"
