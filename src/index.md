@@ -2,7 +2,7 @@
 layout: "layouts/homepage.njk"
 
 navLogo: "/assets/images/logo.png"
-navBtnLink: "index-ch",
+navBtnLink: "index-ch"
 navBtnText: "中文"
 
 hero:
