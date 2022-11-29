@@ -20,6 +20,8 @@ hero:
 introduction:
   title: "NOSOTROS"
 
+services: "testimonials.opinion"
+
 footer:
   contactHeading: "Información de contacto"
   back2topIcon: "/assets/images/to-top.svg"
