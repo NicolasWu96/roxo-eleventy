@@ -141,7 +141,7 @@
               </p>
             </div>
           </div> #}
-          {% for opinion in {{services}} %}
+          {# {% for opinion in {{services}} %} #}
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
@@ -149,16 +149,16 @@
                   <img src="{{opinion.img}}" alt="user-thumb">
                 </div> #}
                 <div class="person">
-                  <h5>{{opinion.name}}</h5>
+                  <h5>{{services..title}}</h5>
                   {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
-                {{opinion.comment}}
+                {{services..description}}
               </p>
             </div>
           </div> 
-          {% endfor %}
+          {# {% endfor %} #}
         </div>
       </div>
     </section>
