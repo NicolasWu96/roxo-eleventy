@@ -16,8 +16,14 @@ introduction:
   title: "NOSOTROS"
 
 footer:
-  contactTitle: "Información de contacto test"
+  contactHeading: "Información de contacto"
   back2topIcon: "/assets/images/to-top.svg"
+  location:
+    link: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
+    text: " Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
+  email:
+    link: "mailto:info@embconsultores.com"
+    text: "info@embconsultores.com"
 
 portfolio:
   subTitle: "OUR RECENT WORKS"
@@ -31,19 +37,23 @@ portfolio:
 
 Somos una empresa integrada por profesionales jóvenes con más de 20 años de Experiencia en Comercio Exterior, brindando un servicio integral en soluciones en el sector. Asociados con el fin de dar confiabilidad en un mercado tan competitivo como el de los servicios de Comercio Exterior, ofrecemos una alternativa signada por la calidad.
 
+
 ### NUESTRA VISIÓN
 
 Buscar el mejoramiento continuo, aportando soluciones que respondan a los requerimientos de vuestro negocio. En EMB CONSULTORES buscamos a través de nuestros servicios agregar calidad para poder garantizar una ejecución exitosa de sus proyectos, proporcionando flexibilidad para ajustarnos a su cultura empresarial y brindando alternativas a su medida.
 
 ### NUESTRA MISIÓN
 
+
 Lograr la mayor y mejor conjunción de sus operaciones internacionales con los incesantes cambios en el comercio exterior, propios de la dinámica de las relaciones internacionales y el entorno nacional y global en el que se desarrolla. El cambio es la constante en el comercio internacional -cambios geopolíticos, tecnológicos, internos y externos políticos, normativos, formación de bloques comerciales- y estos impactan directamente sobre sus operaciones.
 
 > Su empresa necesita adaptarse a esos cambios y para ello contar con profesionales que lo asesoren para el cumplimiento de sus objetivos. Nosotros, le garantizamos un absoluto y profesional compromiso con su negocio.
 
+
 ### NUESTRO VALOR AGREGADO
 
 Fundamentamos nuestro trabajo en la proactividad. Insistimos en detectar falencias y así poder adelantarnos a los errores, que se traducen en extra-costos. Sabiendo que la burocracia e ineficiencia son los elementos que más atentan contra el negocio, nos esforzamos para dar un servicio basado en el correcto asesoramiento y la atención personalizada. Queremos la satisfacción total de nuestros clientes.
+
 
 ### NUESTRO VALOR AGREGADO
 
