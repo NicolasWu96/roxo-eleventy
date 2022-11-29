@@ -33,6 +33,10 @@
   </head>
 
   <body>
+  {% block navbar %}
+    {{navbar | safe}}
+  {% endblock %}
+  
   {# {% block navbar %}
     <nav class="navbar navbar-expand-lg site-navigation">
       <div class="container">
