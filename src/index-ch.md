@@ -20,6 +20,26 @@ hero:
 introduction:
   title: "关于我们"
 
+services: 
+  import:
+    title: "进口"
+    description: "在该国和自由区的所有海关中具有确定性和临时性。特定的目的地。展览会。资本货物，新的和二手的。"
+  export:
+    title: "出口"
+    description: "来自整个阿根廷领土的确定性和临时性。退款管理和监控。原产地证明等手续"
+  intervention: 
+    title: "干预措施"
+    description: "T各类政府机构：Electrical Safety、INAL、SENASA、ANMAT、Automotive Registry、Culture、Flora and Fauna、INTI等。"
+  consultancy:
+    title: "咨询"
+    description: "综合顾问。在进口商/出口商、特殊制度和大型投资项目登记处登记。汽车制度。"
+  logistics:
+    title: "物流"
+    description: "国际空运、陆运和海运。内部携带。在私人仓库中进行拆箱、转运和储存。保管。"
+  internationalMoving:
+    title: "国际搬迁"
+    description: "家具、个人物品、货物和私家车的综合管理。汽车登记处的登记和管理。"
+
 footer:
   contactHeading: "联络方式"
   back2topIcon: "/assets/images/to-top.svg"
