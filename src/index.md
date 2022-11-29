@@ -17,6 +17,7 @@ introduction:
 
 footer:
   contactTitle: "Información de contacto test"
+  back2topIcon: "/assets/images/to-top.svg"
 
 portfolio:
   subTitle: "OUR RECENT WORKS"
