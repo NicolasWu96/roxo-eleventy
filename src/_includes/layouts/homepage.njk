@@ -149,12 +149,16 @@
         <div class="row">
           <div class="col-lg-3 col-md-6">
             <div class="site-footer-widget">
-              <h5 class="site-footer-widget-title">{{footer.contactTitle}}</h5>
+              <h5 class="site-footer-widget-title">{{footer.contactHeading}}</h5>
               <p class="site-footer-widget-description">
-              {% for contactInfo in footer.contactsInfo %}
+                <a href="{{footer.location.link}}">{{footer.location.text}}</a>
+                <br>
+                <a href="{{footer.email.link}}">{{footer.email.text}}</a>
+                <br>
+              {# {% for contactInfo in footer.contactsInfo %}
                 <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
                 <br>
-              {% endfor %}
+              {% endfor %} #}
               </p>
             </div>
           </div>
