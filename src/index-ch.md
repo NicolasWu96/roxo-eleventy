@@ -1,24 +1,24 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "Experiencia. Confianza. Calidad. Proactividad."
+  subTitle: "拥有优越的经验，以诚信，高水平，积极主动的服务态度来洽商"
   title:
-    firstPara: "SERVICIO INTEGRAL"
-    secondPara: "EN COMERCIO EXTERIOR"
+    firstPara: "综合国际"
+    secondPara: "贸易顾问所"
   seeWorkBtn:
-    text: "Servicios"
+    text: "服务项目"
     link: "#servicios"
   connectBtn: 
-    text: "Contactar"
+    text: "联络方式"
     link: "#contacto"
 
 introduction:
   title: "关于我们"
 
 footer:
-  contactHeading: "Información de contacto"
+  contactHeading: "联络方式"
   back2topIcon: "/assets/images/to-top.svg"
-  back2topIconText: "Volver arriba"
+  back2topIconText: "返回顶部"
   location:
     link: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
     text: " Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
