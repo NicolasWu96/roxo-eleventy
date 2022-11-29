@@ -36,13 +36,13 @@ portfolio:
 
 ![](/assets/images/blog/xcamion.jpeg)
 
-Somos una empresa integrada por profesionales jóvenes con más de 20 años de Experiencia en Comercio Exterior, brindando un servicio integral en soluciones en el sector. Asociados con el fin de dar confiabilidad en un mercado tan competitivo como el de los servicios de Comercio Exterior, ofrecemos una alternativa signada por la calidad.
-<br>
+Somos una empresa integrada por profesionales jóvenes con más de 20 años de Experiencia en Comercio Exterior, brindando un servicio integral en soluciones en el sector. Asociados con el fin de dar confiabilidad en un mercado tan competitivo como el de los servicios de Comercio Exterior, ofrecemos una alternativa signada por la calidad.  
+
 
 ### NUESTRA VISIÓN
 
-Buscar el mejoramiento continuo, aportando soluciones que respondan a los requerimientos de vuestro negocio. En EMB CONSULTORES buscamos a través de nuestros servicios agregar calidad para poder garantizar una ejecución exitosa de sus proyectos, proporcionando flexibilidad para ajustarnos a su cultura empresarial y brindando alternativas a su medida.
-<br>
+Buscar el mejoramiento continuo, aportando soluciones que respondan a los requerimientos de vuestro negocio. En EMB CONSULTORES buscamos a través de nuestros servicios agregar calidad para poder garantizar una ejecución exitosa de sus proyectos, proporcionando flexibilidad para ajustarnos a su cultura empresarial y brindando alternativas a su medida.  
+
 
 ### NUESTRA MISIÓN
 
