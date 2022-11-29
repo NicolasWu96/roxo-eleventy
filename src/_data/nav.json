@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
   "navLinks":["home","nosotros", "#servicios","#contar"],
-  "navBtnLink":"ch",
+  "navBtnLink":"index-ch",
   "navBtnText":"中文"
 }
