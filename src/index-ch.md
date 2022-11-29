@@ -1,10 +1,15 @@
 ---
 layout: "layouts/homepage.njk"
+
+navLogo: "/assets/images/logo.png"
+navBtnLink: "index",
+navBtnText: "Español"
+
 hero:
   subTitle: "拥有优越的经验，以诚信，高水平，积极主动的服务态度来洽商"
   title:
-    firstPara: "综合国际"
-    secondPara: "贸易顾问所"
+    firstPara: "综合国际贸易顾问所"
+    secondPara: ""
   seeWorkBtn:
     text: "服务项目"
     link: "#servicios"
