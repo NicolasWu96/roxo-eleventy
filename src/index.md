@@ -1,5 +1,10 @@
 ---
 layout: "layouts/homepage.njk"
+
+navLogo: "/assets/images/logo.png"
+navBtnLink: "index-ch",
+navBtnText: "中文"
+
 hero:
   subTitle: "Experiencia. Confianza. Calidad. Proactividad."
   title:
