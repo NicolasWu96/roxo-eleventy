@@ -15,6 +15,9 @@ hero:
 introduction:
   title: "NOSOTROS"
 
+footer:
+  contactTitle: "Información de contacto test"
+
 portfolio:
   subTitle: "OUR RECENT WORKS"
   title: "Crafting experiences and seeking to make the complex clear & beautiful."
