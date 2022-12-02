@@ -104,19 +104,19 @@ h6 {
 }
 
 .btn-primary {
-  background: #2499D1;
+  background: #0f0e9f;
   color: #fff;
 }
 .btn-primary:hover {
-  background: #e07b7b;
+  background: #2499D1;
 }
 
 .btn-secondary {
-  background: #ADD6D2;
+  background: #2499D1;
   color: #fff;
 }
 .btn-secondary:hover {
-  background: #8bc5bf;
+  background: #0f0e9f;
 }
 
 body {
@@ -1031,7 +1031,7 @@ textarea.form-control {
 }
 
 .site-footer {
-  background: #ADD6D2;
+  background: #333333;
   padding: 100px 0;
 }
 .site-footer-logo {
