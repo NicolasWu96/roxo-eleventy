@@ -49,8 +49,8 @@ footer:
   location:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
     text1: "Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
-    link2:
-    text2:
+    link2: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
+    text2: "Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
   email:
     link: "mailto:info@embconsultores.com"
     text: "info@embconsultores.com"
