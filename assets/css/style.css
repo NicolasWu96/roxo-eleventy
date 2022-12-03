@@ -167,7 +167,7 @@ body {
 }
 @media (max-width: 575px) {
   .site-navigation {
-    padding: 0px;
+    padding: 5px;
   }
 }
 .site-navigation .navbar-brand {
