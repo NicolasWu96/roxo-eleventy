@@ -298,12 +298,12 @@ textarea.form-control {
 @media (max-width: 991px) {
   .site-hero {
     height: auto;
-    padding: 200px 0;
+    padding: 300px 0;
   }
 }
 @media (max-width: 575px) {
   .site-hero {
-    padding: 150px 0;
+    padding: 250px 0;
   }
 }
 .site-hero-content h1 {
