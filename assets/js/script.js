@@ -15,13 +15,13 @@ $(document).ready(function() {
     event.preventDefault();
   });
 
-  $('.site-testimonial-item').on('mouseenter', function(){
-    $('.site-testimonial-item').addClass('inactive');
+  $('.site-services-item').on('mouseenter', function(){
+    $('.site-services-item').addClass('inactive');
     $(this).removeClass('inactive').addClass('active');
   });
-  $('.site-testimonial-item').on('mouseleave', function(){
-    $('.site-testimonial-item').removeClass('inactive');
-    $('.site-testimonial-item').removeClass('active');
+  $('.site-services-item').on('mouseleave', function(){
+    $('.site-services-item').removeClass('inactive');
+    $('.site-services-item').removeClass('active');
   });
 
 });
