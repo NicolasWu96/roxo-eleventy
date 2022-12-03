@@ -147,7 +147,7 @@ body {
   font-weight: 300;
 }
 .site-navigation {
-  padding: 10px 0;
+  padding: 20px 0;
   background: #fff;
   position: fixed;
   top: 0;
@@ -188,7 +188,7 @@ body {
 }
 @media (max-width: 575px) {
   .site-navigation.nav-bg {
-    padding: 15px;
+    padding: 10px;
   }
 }
 
