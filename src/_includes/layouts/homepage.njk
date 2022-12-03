@@ -56,71 +56,14 @@
           </div>
         </div>
       </div>
-      {# <a href="#counter" class="site-hero-scroll scroll-to">
-        <img src="/assets/images/arrow-down.svg" alt="arrow-down">
-      </a> #}
     </section>
-
-    {# <section class="site-counter" id="counter">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="section-title">
-              <h2 class="text-white">{{achieve.title}}</h2>
-            </div>
-          </div>
-          {% for achievement in achieve.achievements %}
-          <div class="col-lg-3 col-md-6">
-            <div class="site-counter-item">
-              <span class="site-counter-item-title">{{achievement.title}}</span>
-              <h3 class="site-counter-item-number">{{achievement.counter}}+</h3>
-            </div>
-          </div> 
-          {% endfor %}
-        </div>
-      </div>
-    </section> #}
-
-    {# <section class="site-project" id="project">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="section-title">
-              <h2>{{portfolio.subTitle}}</h2>
-              <p>{{portfolio.title}}</p>
-            </div>
-          </div>
-          {% for portfolio in collections.portfolios %}
-          <div class="col-lg-6 col-md-10 mx-auto">
-            <div class="site-project-item">
-              <div class="site-project-item-thumb">
-                <img src="{{portfolio.data.img}}" alt="project-thumb">
-              </div>
-              <div class="site-project-item-content">
-                <span>{{portfolio.data.subTitle}}</span>
-                <h3>{{portfolio.data.title}}</h3>
-                <a href="{{portfolio.data.page.url}}" class="read-more">{{portfolio.data.linkText}}</a>
-              </div>
-            </div>
-          </div>
-          {% endfor %}
-          <div class="col-12 text-center text-lg-left">
-            <a href="/{{portfolio.seeAllbtn.link}}" class="site-project-cta">{{portfolio.seeAllbtn.text}}</a>
-          </div>
-        </div>
-      </div>
-    </section> #}
-
-    {# agrego para test el blog detail aca #}
 
   <section class="site-blog details">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8">
             <article class="site-blog-details">
-              {# <p><span>{{blogpost.data.postDate}}</span> by <span>{{blogpost.data.author}}</span></p> #}
               <h2 class="blog-title">{{introduction.title}}</h2>
-              {# <img class="feature-image" src="{{blogpost.data.featureImg}}" alt="blog-details-image"> #}
               {{content | safe}}
             </article>
           </div>
@@ -133,26 +76,11 @@
       <div class="container">
         <h2 class="blog-title">{{services.title}}</h2>
         <div class="row">
-          {# <div class="col-12">
-            <div class="section-title">
-              <h2>
-                {{testimonials.title}}
-              </h2>
-              <p>
-                {{testimonials.des}} 
-              </p>
-            </div>
-          </div> #}
-          {# {% for opinion in {{services}} %} #}
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.import.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -164,12 +92,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.export.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -181,12 +105,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.intervention.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -198,12 +118,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.consultancy.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -215,12 +131,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.logistics.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -232,12 +144,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">
-                {# <div class="thumb">
-                  <img src="{{opinion.img}}" alt="user-thumb">
-                </div> #}
                 <div class="person">
                   <h5>{{services.internationalMoving.title}}</h5>
-                  {# <p>{{opinion.dig}}</p> #}
                 </div>
               </div>
               <p class="site-testimonial-item-body">
@@ -245,8 +153,6 @@
               </p>
             </div>
           </div> 
-
-          {# {% endfor %} #}
         </div>
       </div>
     </section>
@@ -263,10 +169,6 @@
                   <br>
                   <a href="{{footer.location.link1}}">{{footer.location.text1}}</a>
                   <br>
-                {# {% for contactInfo in footer.contactsInfo %}
-                  <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
-                  <br>
-                {% endfor %} #}
                 </p>
               </div>
             </div>
@@ -282,10 +184,6 @@
                   <br>
                   <br>
                   <a href="{{footer.location.link2}}">{{footer.location.text2}}</a>
-                {# {% for contactInfo in footer.contactsInfo %}
-                  <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
-                  <br>
-                {% endfor %} #}
                 </p>
               </div>
             </div>
