@@ -21,6 +21,7 @@ introduction:
   title: "NOSOTROS"
 
 services: 
+  title: "Servicios"
   import:
     title: "IMPORTACIÓN"
     description: "Definitiva y temporal en todas las aduanas del país y zonas francas. Destinaciones particulares. Ferias. Bienes de Capital, nuevos y usados."
