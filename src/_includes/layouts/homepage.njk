@@ -164,8 +164,14 @@
               <div class="site-footer-widget">
                 <h5 class="site-footer-widget-title">{{footer.contactHeading}}</h5>
                 <p class="site-footer-widget-description">
-                  <span>{{footer.email.position}}</span>
-                  <span>{{footer.email.name}}</span>
+                  {% if footer.email.position %}  
+                    <span>{{footer.email.position}}</span>
+                    <br>
+                  {% endif %}
+                  {% if footer.email.name %}  
+                    <span>{{footer.email.name}}</span>
+                    <br>
+                  {% endif %}
                   <span>{{footer.email.title}}</span>
                   <a href="{{footer.email.link}}">{{footer.email.text}}</a>
                   <br>
@@ -190,8 +196,7 @@
               </div>
             </div>
             <div class="col-lg-5 col-md-6">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13134.789453368472!2d-58.3737494!3d-34.6118135!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6f9c76d2f124393!2sEMB%20Consultores%20SRL!5e0!3m2!1sen!2sar!4v1669690888837!5m2!1sen!2sar" width="100%" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.8686750541997!2d-58.447744!3d-34.556880299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5cccc6ac3e5%3A0x5a5358a33f24cd09!2sLibertador%20Office%20Bussines%20Center!5e0!3m2!1ses-419!2sar!4v1670280022431!5m2!1ses-419!2sar" width="100%" height="225" style="border:0"; allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            </div>
             <div class="col-lg-3 col-md-6">
               <a href="#top" class="site-footer-widget-top">
                 <img src="{{footer.back2topIcon}}" alt="back-to-top">
