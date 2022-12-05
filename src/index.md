@@ -52,7 +52,9 @@ footer:
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
     text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
   email:
-    title: "email: "
+    name: ""
+    position: ""
+    title: "Email: "
     link: "mailto:info@embconsultores.com"
     text: "info@embconsultores.com"
 
