@@ -42,9 +42,7 @@ services:
     description: "家具、个人物品、货物和私家车的综合管理。汽车登记处的登记和管理。"
 
 footer:
-  contactHeading: "联络方式
-国际贸易顾问
-Lic. Adam Wu"
+  contactHeading: "联络方式"
   back2topIcon: "/assets/images/to-top.svg"
   back2topIconText: "返回顶部"
   location:
@@ -53,6 +51,8 @@ Lic. Adam Wu"
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
     text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
   email:
+    name: "Lic. Adam Wu  <br/>"
+    position: "国际贸易顾问  <br/>"
     title: "电子邮件: "
     link: "mailto:info@embconsultores.com"
     text: "adam.wu@embconsultores.com"
