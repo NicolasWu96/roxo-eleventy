@@ -42,17 +42,20 @@ services:
     description: "家具、个人物品、货物和私家车的综合管理。汽车登记处的登记和管理。"
 
 footer:
-  contactHeading: "联络方式"
+  contactHeading: "联络方式
+国际贸易顾问
+Lic. Adam Wu"
   back2topIcon: "/assets/images/to-top.svg"
   back2topIconText: "返回顶部"
   location:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
     text1: "Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
-    link2: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
-    text2: "Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
+    link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
+    text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
   email:
+    title: "电子邮件: "
     link: "mailto:info@embconsultores.com"
-    text: "info@embconsultores.com"
+    text: "adam.wu@embconsultores.com"
 
 portfolio:
   subTitle: "OUR RECENT WORKS"
