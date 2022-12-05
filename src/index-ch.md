@@ -51,8 +51,8 @@ footer:
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
     text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
   email:
-    name: "Lic. Adam Wu  <br/>"
-    position: "国际贸易顾问  <br/>"
+    name: "Lic. Adam Wu"
+    position: "国际贸易顾问"
     title: "电子邮件: "
     link: "mailto:info@embconsultores.com"
     text: "adam.wu@embconsultores.com"
