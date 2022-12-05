@@ -54,7 +54,7 @@ footer:
     name: "Lic. Adam Wu"
     position: "国际贸易顾问"
     title: "电子邮件: "
-    link: "mailto:info@embconsultores.com"
+    link: "mailto:adam.wu@embconsultores.com"
     text: "adam.wu@embconsultores.com"
 
 portfolio:
