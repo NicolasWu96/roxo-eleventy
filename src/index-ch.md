@@ -65,7 +65,7 @@ portfolio:
     text: "MORE WORKS"
 ---
 
-![](/assets/images/blog/xcamion.jpg)
+![](/assets/images/blog/xcamion.jpeg)
 
 我们是一家由拥有 20 多年外贸经验的专业人士组成的公司，为该行业的解决方案提供全面的服务。为了在与外贸服务一样具有竞争力的市场中提供可靠性，我们提供了以质量为标志的替代方案。   
 <br/>
