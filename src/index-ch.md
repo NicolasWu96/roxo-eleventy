@@ -2,7 +2,7 @@
 layout: "layouts/homepage.njk"
 
 navLogo: "/assets/images/logo.png"
-navBtnLink: "index"
+navBtnLink: "/"
 navBtnText: "Español"
 
 hero:
