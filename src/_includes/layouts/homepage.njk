@@ -26,8 +26,8 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <div class="site-hero-content text-center">
-              <h5>{{hero.subTitle}}</h5>
-              <h1>
+              <h5 class="hero">{{hero.subTitle}}</h5>
+              <h1 class="hero">
                 {{hero.title.firstPara}}
                 <br>
                 {{hero.title.secondPara}}
@@ -63,7 +63,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-8">
             <article class="site-blog-details">
-              <h2 class="blog-title blue">{{introduction.title}}</h2>
+              <h2 class="blog-title">{{introduction.title}}</h2>
               {{content | safe}}
             </article>
           </div>
@@ -73,13 +73,13 @@
 
     <section class="site-services" id="servicios">
       <div class="container">
-        <h2 class="blog-title blue">{{services.title}}</h2>
+        <h2 class="blog-title">{{services.title}}</h2>
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="site-services-item">
               <div class="site-services-item-header">
                 <div class="person">
-                  <h5 class="blue">{{services.import.title}}</h5>
+                  <h5>{{services.import.title}}</h5>
                 </div>
               </div>
               <p class="site-services-item-body">
@@ -92,7 +92,7 @@
             <div class="site-services-item">
               <div class="site-services-item-header">
                 <div class="person">
-                  <h5 class="blue">{{services.export.title}}</h5>
+                  <h5>{{services.export.title}}</h5>
                 </div>
               </div>
               <p class="site-services-item-body">
