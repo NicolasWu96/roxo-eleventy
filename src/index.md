@@ -10,10 +10,10 @@ hero:
   title:
     firstPara: "SERVICIO INTEGRAL"
     secondPara: "EN COMERCIO EXTERIOR"
-  seeWorkBtn:
+  seeServicesBtn:
     text: "Servicios"
     link: "#servicios"
-  connectBtn: 
+  seeContactBtn: 
     text: "Contactar"
     link: "#contacto"
 
