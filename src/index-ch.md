@@ -10,10 +10,10 @@ hero:
   title:
     firstPara: "综合国际贸易顾问所"
     secondPara: ""
-  seeWorkBtn:
+  seeServicesBtn:
     text: "服务项目"
     link: "#servicios"
-  connectBtn: 
+  seeContactBtn: 
     text: "联络方式"
     link: "#contacto"
 
