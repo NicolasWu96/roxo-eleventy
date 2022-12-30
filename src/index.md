@@ -48,22 +48,16 @@ footer:
   back2topIconText: "Volver arriba"
   location:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
-    text1: "Moreno 502 Piso 2 Oficina 201, C1091AAL, CABA, Argentina"
+    text1: "Moreno 502, Piso 2 Oficina 201, C1091AAL, CABA, Argentina."
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
-    text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
+    text2: "Av. del Libertador 5990, Piso 4 Oficina 401, C1428ARP CABA, Argentina."
   email:
     name: 
     position: 
     title: "Email: "
     link: "mailto:info@embconsultores.com"
     text: "info@embconsultores.com"
-
-portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
-  seeAllbtn:
-    link: "portfolio"
-    text: "MORE WORKS"
+    
 ---
 
 ![](/assets/images/blog/xcamion.jpeg)
