@@ -49,14 +49,14 @@ footer:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
     text1: "Moreno 502, 二楼 “201”号办公室, C1091AAL, CABA, Argentina."
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
-    text2: "Av. del Libertador 5990, 四楼 “401”号办公室, C1428ARP CABA, Argentina."
+    text2: "Av. del Libertador 5990, 四楼 “401”号办公室, C1428ARP, CABA, Argentina."
   email:
     name: "Lic. Adam Wu"
     position: "国际贸易顾问"
     title: "电子邮件: "
     link: "mailto:adam.wu@embconsultores.com"
     text: "adam.wu@embconsultores.com"
-    
+
 ---
 
 ![](/assets/images/blog/xcamion.jpeg)
