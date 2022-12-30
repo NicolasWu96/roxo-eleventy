@@ -47,7 +47,7 @@ footer:
   back2topIconText: "返回顶部"
   location:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
-    text1: "Moreno 502 Piso 6 Oficina 201, C1091AAL, CABA, Argentina"
+    text1: "Moreno 502 Piso 2 Oficina 201, C1091AAL, CABA, Argentina"
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
     text2: "4to piso “401” Av. del Libertador 5990, C1428ARP CABA, Argentina"
   email:
