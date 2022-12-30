@@ -380,6 +380,7 @@ body {
   .site-footer-widget-top {
     text-align: center;
     display: block;
+    padding-top: 10px;
   }
 }
 .site-footer-widget-top img {
