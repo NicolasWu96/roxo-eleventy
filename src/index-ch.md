@@ -47,9 +47,9 @@ footer:
   back2topIconText: "返回顶部"
   location:
     link1: "https://goo.gl/maps/NBv2Z1gEEsNZxy6v5"
-    text1: "Moreno 502, 2楼 “201”室, C1091AAL, CABA, Argentina."
+    text1: "Moreno 502, 2楼 201室, C1091AAL, CABA, Argentina."
     link2: "https://goo.gl/maps/NCWALJUqr3WpKRka9"
-    text2: "Av. del Libertador 5990, 4楼 “401”室, C1428ARP, CABA, Argentina."
+    text2: "Av. del Libertador 5990, 4楼 401室, C1428ARP, CABA, Argentina."
   email:
     name: "Lic. Adam Wu"
     position: "国际贸易顾问"
